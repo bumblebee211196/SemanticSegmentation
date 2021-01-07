@@ -1,6 +1,6 @@
 # SemanticSegmentation
 
-A simple Python application to demonstrate semantic segmentation of an image using opencv [blog]().
+A simple Python application to demonstrate semantic segmentation of an image using opencv. For detailed explanation check out my [blog]().
 
 This was possible only due to the simple and clear explanation by Adrian Rosebrock's [blog](https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/).
 
